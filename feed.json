@@ -1,0 +1,12 @@
+{
+    "providerName": "Galaxy3.net",
+    "language": "en-US",
+    "lastUpdated": "2020-09-08T21:10:24-07:00",
+    "categories": [
+        {
+            "name": "Cooking Shows",
+            "query": "cooking AND reality shows",
+            "order": "most_popular"
+        }
+    ]
+}
